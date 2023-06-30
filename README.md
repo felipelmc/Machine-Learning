@@ -4,14 +4,14 @@ This repository contains all the assignments and the project I did for the Machi
 
 ## **Assignments**
 
-1. Método dos vizinhos mais próximos ($k$-NN)
-2. Regressão linear
-3. Regressão logística e inferência Bayesiana aproximada
-4. Seleção de modelo e hiperparâmetros
-5. Processos Gaussianos para regressão
-6. Redes neurais
-7. Redução de dimensionalidade
-8. K-means e Mixture models
+1. Nearest Neighbours Method ($k$-NN) (10/10)
+2. Linear Regression (8.5/10)
+3. Logistic Regression and Approximate Bayesian Inference (10/10)
+4. Selection of Models and Hyperparameters (9.25/10)
+5. Gaussian Processes for Regression
+6. Neural Networks
+7. Dimensionality Reduction
+8. K-means and Mixture models
 
 ## **Final Project**
 
