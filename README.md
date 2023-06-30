@@ -15,4 +15,4 @@ This repository contains all the assignments and the project I did for the Machi
 
 ## **Final Project**
 
-The [final project](https://github.com/anacarolerthal/conformal-prediction-evaluation) was co-authored by [Ana Carolina Erthal](https://github.com/anacarolerthal), [Guilherme de Melo](https://github.com/guilherme-melo) and Bernardo Vargas. The project implements a way of comparing Conformal Predictors, a type of machine learning algorithm, with traditional machine learning algorithms. 
+The [final project](https://github.com/anacarolerthal/conformal-prediction-evaluation) was co-authored by [Ana Carolina Erthal](https://github.com/anacarolerthal), [Guilherme de Melo](https://github.com/guilherme-melo) and Bernardo Vargas. The project implements a way of comparing Conformal Prediction with traditional machine learning algorithms to generate confidence intervals. 
