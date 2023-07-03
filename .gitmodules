@@ -1,0 +1,3 @@
+[submodule "Conformal-Prediction-Evaluation"]
+	path = Conformal-Prediction-Evaluation
+	url = https://github.com/felipelmc/Conformal-Prediction-Evaluation.git
