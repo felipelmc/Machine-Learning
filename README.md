@@ -8,10 +8,10 @@ This repository contains all the assignments and the project I did for the Machi
 2. Linear Regression (8.5/10)
 3. Logistic Regression and Approximate Bayesian Inference (10/10)
 4. Selection of Models and Hyperparameters (9.25/10)
-5. Gaussian Processes for Regression
-6. Neural Networks
-7. Dimensionality Reduction
-8. K-means and Mixture models
+5. Gaussian Processes for Regression (10/10)
+6. Neural Networks (10/10)
+7. Dimensionality Reduction (10/10)
+8. K-means and Mixture models (8.5/10)
 
 ## **Final Project**
 
