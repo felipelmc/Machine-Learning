@@ -1,6 +1,6 @@
 # **Machine Learning**
 
-This repository contains all the assignments and the project I did for the Machine Learning course at the School of Applied Mathematics of the Getulio Vargas Foundation (FGV EMAp). The course was taught by Professor Diego Mesquita.
+This repository contains all the assignments and the project I did for the Machine Learning course at the School of Applied Mathematics of the Getulio Vargas Foundation (FGV EMAp). The course was taught by [Professor Diego Mesquita](https://emap.fgv.br/professores/diego-mesquita).
 
 ## **Assignments**
 
